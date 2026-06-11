@@ -58,3 +58,9 @@ The project demonstrates data exploration, aggregation, customer segmentation, a
 * Bike purchases vary based on customer family status and commute distance.
 * Certain product subcategories consistently outperform others.
 * Customer demographics provide valuable opportunities for targeted marketing strategies.
+
+## Interactive Dashboard
+
+Explore the live Tableau dashboard:
+
+Dashboard Link: https://public.tableau.com/views/SalesAnalysis-SQLProjectContinuationInsightsStory/SalesDashboard?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
