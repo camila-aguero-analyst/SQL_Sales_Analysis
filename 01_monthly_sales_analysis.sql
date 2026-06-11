@@ -1,6 +1,5 @@
 -- ==========================================================
 -- Project: Sales Analysis Using SQL
--- File: 01_monthly_sales_analysis.sql
 -- Author: Camila Aguero
 --
 -- Purpose:
