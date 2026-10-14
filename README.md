@@ -21,12 +21,12 @@ The project demonstrates data exploration, aggregation, customer segmentation, a
 
 | File                                    | Description                                                                      |
 | --------------------------------------- | -------------------------------------------------------------------------------- |
-| **01_monthly_sales_analysis.sql**       | Analyzes monthly sales trends for 2012 by extracting and formatting order dates. |
-| **02_product_sales_by_subcategory.sql** | Identifies top-performing product subcategories using joins and aggregation.     |
-| **03_sales_by_children_status.sql**     | Compares bike purchases between customers with children and those without.       |
-| **04_sales_by_country.sql**             | Evaluates sales performance across geographic regions.                           |
-| **05_sales_by_commute_distance.sql**    | Explores customer commute distance and its relationship to bike purchases.       |
-| **06_sales_by_age_group.sql**           | Segments customers into age groups to analyze demographic purchasing patterns.   |
+| **1_monthly_sales_analysis.sql**       | Analyzes monthly sales trends for 2012 by extracting and formatting order dates. |
+| **2_product_sales_by_subcategory.sql** | Identifies top-performing product subcategories using joins and aggregation.     |
+| **3_sales_by_children_status.sql**     | Compares bike purchases between customers with children and those without.       |
+| **4_sales_by_country.sql**             | Evaluates sales performance across geographic regions.                           |
+| **5_sales_by_commute_distance.sql**    | Explores customer commute distance and its relationship to bike purchases.       |
+| **6_sales_by_age_group.sql**           | Segments customers into age groups to analyze demographic purchasing patterns.   |
 
 ---
 
